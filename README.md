@@ -43,4 +43,4 @@ STEP 5:Include Necessary parameters in each functions.
 
 
 # Result:
- Include your result here
+ Thus, all the data visualization tecniques of matplotlib has been implemented
